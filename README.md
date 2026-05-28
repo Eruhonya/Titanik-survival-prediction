@@ -1,7 +1,7 @@
-# Titanik-survival-prediction
+# Titanic Survival Prediction 🚢
+
 Titanic survival prediction | Classification | Gradient Boosting | ROC-AUC 85.9%
 
-# Titanic Survival Prediction 🚢
 
 Binary classification task predicting passenger survival on the Titanic.
 
@@ -28,6 +28,9 @@ matplotlib, seaborn, scipy
 | Accuracy | 80.2% |
 | ROC-AUC | 85.9% |
 | F1-Score | 68.5% |
+
+![ROC-AUC Curve](images/ROC.png)
+![Feature importance](images/Feature importance.png)
 
 **Best model: Gradient Boosting Classifier**
 
