@@ -2,7 +2,7 @@
 
 Titanic survival prediction | Classification | Gradient Boosting | ROC-AUC 85.9%
 
-![LABELKA](images/titanos.png)
+![LABELKA](images/titanos.jpg)
 
 Binary classification task predicting passenger survival on the Titanic.
 
